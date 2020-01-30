@@ -1,0 +1,23 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "description": "react based google book search",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wseide/google-books-search.git"
+  },
+  "author": "Wismy Seide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wseide/google-books-search/issues"
+  },
+  "homepage": "https://github.com/wseide/google-books-search#readme",
+  "dependencies": {
+    "mongoose": "^5.8.10"
+  }
+}
