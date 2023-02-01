@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wseide/google-books-search#readme",
   "dependencies": {
-    "mongoose": "^5.8.10"
+    "mongoose": "^5.13.15"
   }
 }
